@@ -1,0 +1,114 @@
+{
+  "id": "quellors-maps-and-magic",
+  "title": "Quellors Maps and Magic",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "artificer-spell-list",
+      "label": "Artificer Spell List",
+      "path": "packs/artificer-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bard-spell-list",
+      "label": "Bard Spell List",
+      "path": "packs/bard-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cleric-spell-list",
+      "label": "Cleric Spell List",
+      "path": "packs/cleric-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "druid-spell-list",
+      "label": "Druid Spell List",
+      "path": "packs/druid-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "paladin-spell-list",
+      "label": "Paladin Spell List",
+      "path": "packs/paladin-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ranger-spell-list",
+      "label": "Ranger Spell List",
+      "path": "packs/ranger-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sorcerer-spell-list",
+      "label": "Sorcerer Spell List",
+      "path": "packs/sorcerer-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "warlock-spell-list",
+      "label": "Warlock Spell List",
+      "path": "packs/warlock-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "wizard-spell-list",
+      "label": "Wizard Spell List",
+      "path": "packs/wizard-spell-list",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+    {
+		"download": "https://github.com/Hearty-Party-Quellors-Repository/Spell-List/tree/main/quellors-maps-and-magic"
+		"manifest": "https://raw.githubusercontent.com/Hearty-Party-Quellors-Repository/Spell-List/main/quellors-maps-and-magic/quellors-maps-and-magic/module.json"
+      }
+}
