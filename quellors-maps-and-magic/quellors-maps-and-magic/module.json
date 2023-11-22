@@ -5,7 +5,6 @@
   "compatibility": {
     "minimum": "11",
     "verified": "11"
-  "manifest": "https://github.com/Hearty-Party-Quellors-Repository/Spell-List/blob/main/quellors-maps-and-magic/quellors-maps-and-magic/module.json",
   },
   "packs": [
     {
