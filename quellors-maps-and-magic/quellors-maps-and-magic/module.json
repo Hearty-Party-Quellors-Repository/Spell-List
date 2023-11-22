@@ -1,6 +1,6 @@
 {
-  "id": "quellors-maps-and-magic/quellors-maps-and-magic",
-  "title": "Quellors Maps and Magic",
+  "id": "quellors-maps-and-magic",
+  "title": "quellors-maps-and-magic",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
