@@ -111,9 +111,6 @@
       "label": "Full Spell List",
       "path": "packs/full-spell-list",
       "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
       },
       "system": "dnd5e"
     }
