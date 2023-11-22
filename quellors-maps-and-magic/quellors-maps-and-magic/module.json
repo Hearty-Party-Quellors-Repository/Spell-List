@@ -1,6 +1,7 @@
 {
   "id": "quellors-maps-and-magic",
   "title": "Quellors Maps and Magic",
+  "description": "Spell Listing organized by class and spell level."
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
